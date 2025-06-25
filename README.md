@@ -36,13 +36,13 @@ npm run dev
 ```  
 
 ## 📁 Project structure
-
+---
 ├─ controllers/     # Express controllers, file.js
 ├─ models/          
 ├─ routes/          # Express routes, file.js
 ├─ middleware/      # Multer config
 └─ server.js
-
+---
 
 ## 📝 License
 MIT
